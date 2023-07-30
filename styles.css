@@ -25,3 +25,7 @@ border-radius:7%;
 .container p, .container h3{
 margin:20px;
 }
+
+.container p {
+padding-bottom:30px;
+}
